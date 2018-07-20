@@ -1,0 +1,2 @@
+#Clicky
+**Clicky** is a memory game built using react. Before playing the game, look closely at each of the dogs and remember something unique about them. To start the game, click on any of the dogs. Each time you click on one of the dogs, the pictures will shuffle. As long as you click a dog you haven't yet picked, you will score points. You lose when you click the same dog twice. The game immedeately starts over upon clicking a duplicate. If you click all 12 dogs without any duplicates you win.
